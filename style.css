@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-family: "Poppins";
+}
+
+.container{
+  max-width: 1330px;
+  margin: 5rem auto;
+}
+
+.card_item{
+  width: 300px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  box-shadow: 0 2px 8px rgba(99, 99, 99, 0.5);
+  padding: 43px;
+}
